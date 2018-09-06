@@ -1,0 +1,79 @@
+body {
+    background-color:#FFffff;
+	color: gray;
+    text-align: center;
+	font-family: 'Flamenco';
+	font-size: 18px;
+}
+	
+	
+h1 {
+    color: gray;
+    text-align: center;
+	font-size: 50px;
+	
+}
+h2{
+	
+    font-size: 22px;
+	color: gray;
+
+}
+h3{
+	font-size: 11px;
+	color: gray;
+	
+}
+q{
+	font-size: 25px;
+
+}
+ul{
+	list-style-position:inside;
+}
+
+a:link{
+	
+    color: red;
+    text-align: center; 
+    text-decoration: underline;
+    
+}
+a:visited{
+	 color: dimgray; 
+	
+}
+
+a:hover, a:active { 
+  color: white;
+    background-color:gainsboro;
+	
+}
+
+table{
+     font-family: 'Flamenco';
+	border-collapse: collapse;
+	width:100%;
+	
+	
+}
+th{
+	
+	border:1px solid red;
+	color: gray;
+	text-align: center;
+	
+}
+tr:nth-child(even){
+	background-color: gainsboro;
+	
+}
+	
+span{
+	color:red;
+	font-weight:bold;
+}
+div{
+color:red;
+	
+}
