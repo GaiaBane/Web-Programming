@@ -1,0 +1,26 @@
+body{
+	background-color: #FFCC00;
+	font-family: Georgia;
+}
+h1{
+	text-align: center;
+	color: #A4A400;
+	background-color: #F0F0F0 ;
+	font-family:"Century Gothic";
+}
+h2{
+	text-align: center;
+	color: #A4A400;
+	background-color: #F0F0F0 ;
+	font-family:"Century Gothic";
+	}
+h3{
+	text-align:left;
+}
+
+a{
+	
+}
+span{
+	font-weight:bold;
+}
